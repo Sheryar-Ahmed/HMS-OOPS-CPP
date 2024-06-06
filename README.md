@@ -1,2 +1,2 @@
 # HMS-OOPS-CPP
-A hospital management system wuth authentication in c++ with oops.
+A hospital management system with authentication in c++ with oops.
